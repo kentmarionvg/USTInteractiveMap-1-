@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UST Interactive Map</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_map_screen">Map Screen</string>
+    <string name="ust">University of Santo Tomas</string>
+    <string name="subtitle">Site and Information Map</string>
+    <string name="title_activity_view_list_menu">List View</string>
+    <string name="title_activity_main_building">Main Building</string>
+    <string name="title_activity_arch_centuries">Arch of the Centuries</string>
+    <string name="title_engg">Arch of the Centuries</string>
+    <string name="MainBuilding">In 1920, Fr. Ruaño, O.P. was assigned to draw up plans for the UST Main Building to be constructed at the Sulucan property of the Dominican Order. During the years 1922 and 1923, the plans were finally completed. However, some fine tunings may have been made on the design criteria as a result of the new lessons learned from the Great Kantō earthquake of September 1, 1923 which flattened Tokyo and Yokohama. Eventually, construction began in 1924.
+The structure is a rectangular building having a dimension of 86 meters long and 74 meters wide with two interior courtyards or patios. The most significant feature is the fact that it is actually made up of 40 separate structures independent from one another with the only opportunity provided by pre-cast stab flooring.But some locations of the separations are now difficult to determine exactly because of the numerous cosmetic changes the interior of the building which has undergone over the years.</string>
+    <string name="MainBuilding2">The Main Building of the University of Santo Tomas (UST) in Manila, Philippines functions as the university\'s administrative center, and home of the Faculty of Civil Law, Faculty of Pharmacy, and the College of Science. The Main Building is also the home of the Museum of Arts and Sciences.</string>
+    <string name="Law">Faculty of Law</string>
+    <string name="Pharmacy">Faculty of Pharmacy</string>
+    <string name="Science">College of Science</string>
+    <string name="engg">Faculty of Engineering</string>
+    <string name="iics">Institute of Information and Computing Sciences</string>
+    <string name="arki">College of Architecture</string>
+    <string name="fine">College of Fine Arts and Design</string>
+    <string name="acc">College of Accountancy</string>
+    <string name="com">College of Commerce and Business Administration</string>
+    <string name="ab">Faculty of Arts and Letters</string>
+    <string name="educ">College of Education</string>
+    <string name="music">Conservatory of Music</string>
+    <string name="Arch">The Arch of the Centuries was originally erected in 1611 at Intramuros, where UST was originally established. When the university transferred to its present location at Sampaloc, the Arch was also carried piece-by-piece and was re-erected at the present Plaza Intramuros in 1954.
+The original Arch which faces the Main Building was the main doorway to the university building before it was destroyed during World War II when it was at Intramuros. A newer arch faced España Boulevard, which is a reconstruction of the original arch.
+In January 25, 2010, it was declared a National Cultural Treasure, along with the University Main Building, the Central Seminary Building, and the university field, by the National Museum of the Philippines.</string>
+    <string name="Arch2">The Arch of the Centuries is a triumphal arch at the Plaza Intramuros of the University of Santo Tomas (UST) in Manila, in the Philippines that stands fifteen metres away from the university\'s Millenium Gate along España Boulevard. The present single structure puts together, back-to-back, the ruins of the original Intramuros arch, which faces the Main Building, and its replica, fronting España Boulevard. The arch was formerly the original entrance to the university when the campus was still in Intramuros during the years from 1611 to 1941. It was declared by the National Museum as a National Cultural Treasure on January 25, 2011.</string>
+    <string name="Arch3">All incoming students (freshmen and transferees), as parts of their initiation rites into the university, known as the Thomasian Welcome Walk are required to pass through under the Arch. Candidates for graduation, on the other hand, also pass through under the Arch during a parade after their Baccalaureate Mass. This tradition started on June 2002. Fireworks display ends the passage and signals the party afterwards. The parade, either of freshmen or graduating seniors, is done per college/faculty in random order.
+There is an old superstition that while studying at the university, one should not pass under the arch until he graduates. If done so, an event will happen that will bar his graduation from the university.</string>
+    <string name="Engg1">It is a five-storey, E-shaped building named after the alumnus who designed the UST Main Building, Rev. Fr. Roque Ruaño, O.P.. It houses the Faculty of Engineering and the newly established Institute of Information and Computing Sciences.</string>
+    <string name="title_activity_engg_building">Roque Ruano Building</string>
+    <string name="title_activity_arki">Beato Angelico Building</string>
+    <string name="arki1">The eight-storey structure named after Fra Angelico houses the College of Architecture, and the College of Fine Arts and Design. It also houses The UST Publishing House which took the place of the UST Press and the UST Printing Office.</string>
+    <string name="title_activity_acc">Alfredo M. Velayo</string>
+    <string name="acc1">Located in front of the UST Hospital, a four-level structure wherein the first three levels consist of a multi-level carpark with operating commercial spaces in the first two levels. The UST-AMV College of Accountancy occupies the fourth level of the building.</string>
+    <string name="title_activity_com">St. Raymund de Peñafort</string>
+    <string name="com1">Named after St. Raymund de Peñafort, the patron saints of lawyers, the building houses both the Faculty of Arts and Letters and the College of Commerce and Business Administration.</string>
+    <string name="title_activity_educ">Albertus Magnus Building</string>
+    <string name="educ1">Named after the Dominican Albertus Magnus, the building houses the College of Education, the Conservatory of Music, and the Education High School.</string>
+
+</resources>

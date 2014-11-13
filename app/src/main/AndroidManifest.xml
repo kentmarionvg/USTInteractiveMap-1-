@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ustsitemap.ustinteractivemap" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".TitleScreen"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MapScreen"
+            android:label="@string/title_activity_map_screen"
+            android:parentActivityName=".TitleScreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAP" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.ustsitemap.ustinteractivemap.TitleScreen" />
+        </activity>
+        <activity
+            android:name=".ViewListMenu"
+            android:label="@string/title_activity_view_list_menu"
+            android:parentActivityName=".MapScreen" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.ustsitemap.ustinteractivemap.MapScreen" />
+        </activity>
+        <activity
+            android:name=".MainBuilding"
+            android:label="@string/title_activity_main_building"
+            android:parentActivityName=".ViewListMenu" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.ustsitemap.ustinteractivemap.ViewListMenu" />
+        </activity>
+        <activity
+            android:name=".ArchCenturies"
+            android:label="@string/title_activity_arch_centuries"
+            android:parentActivityName=".ViewListMenu" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.ustsitemap.ustinteractivemap.ViewListMenu" />
+        </activity>
+        <activity
+            android:name=".engg_building"
+            android:label="@string/title_activity_engg_building" >
+        </activity>
+        <activity
+            android:name=".arki"
+            android:label="@string/title_activity_arki" >
+        </activity>
+        <activity
+            android:name=".acc"
+            android:label="@string/title_activity_acc" >
+        </activity>
+        <activity
+            android:name=".com"
+            android:label="@string/title_activity_com" >
+        </activity>
+        <activity
+            android:name=".educ"
+            android:label="@string/title_activity_educ" >
+        </activity>
+    </application>
+
+</manifest>
